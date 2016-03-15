@@ -1,0 +1,25 @@
+{
+  "name": "node-websocket-server",
+  "version": "0.0.1",
+  "description": "Websocket Server Implemention WAMP sub protocol",
+  "main": "wss.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cdecu/node-websocket-server.git"
+  },
+  "keywords": [
+    "node",
+    "typescript",
+    "websocket",
+    "wamp"
+  ],
+  "author": "cdecu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cdecu/node-websocket-server/issues"
+  },
+  "homepage": "https://github.com/cdecu/node-websocket-server#readme"
+}
